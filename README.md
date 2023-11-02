@@ -7,8 +7,8 @@ Running Locally
 1. Make sure you have Go installed on your system.
 2. Clone this repository
 
-git clone < >
-cd /
+git clone https://github.com/rochhh/grpc-task-totality-corp.git
+cd ./
 
 
 3. Build and run the application 
